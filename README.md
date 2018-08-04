@@ -1,6 +1,5 @@
 # AutoCloseDialog
 
-===
 
 Custom showconformdialog of JOptionpane 
 
